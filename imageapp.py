@@ -8,7 +8,7 @@ import json
 import base64
 import requests
 import streamlit as st
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 from io import BytesIO
 from PIL import Image
 
